@@ -1,0 +1,126 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "product_image": "https://kalon.shop/wp-content/uploads/2019/12/373.jpg",
+            "product_name": "AHA BHA PHA 30 Days Miracle Serum light",
+            "description": "Suero ideal para piel grasa y que pueda padecer de acné. Sus ingredientes tienen la capacidad de eliminar las células muertas que obstruyen los poros, que puedan producir granitos o espinillas. Reduce la producción de grasa, repara las lesiones y daños de la piel, devolviendo la luminosidad. Contiene 14.5% de centella asiática, un activo con propiedades que fortalecen la barrera protectora de la piel, calmando la irritación. Previene las cicatrices por acné y acelera la sanación de las ya existentes. Contiene una mezcla de tres exfoliantes químicos: AHA, BHA y PHA, los cuales exfolian interna y externamente los poros, ayudando a controlar la producción excesiva de sebo.",
+            "volume": "50 ml",
+            "price": 299.00,
+            "discount": 0.00,
+            "stock": 50,
+            "cant_stars": 5,
+            "specifications": ["Centella Asiática", "AHA", "BHA", "PHA", "Niacinamide", "Papaya Fruit Extract"]
+        }, 
+        {
+            "id": 2,
+            "product_image": "https://yeppo.cl/cdn/shop/files/Heimish_-All-Clean-White-Clay-Foam-150g-1.jpg?v=1723491919",
+            "product_name": "All Clean White Clay Foam",
+            "description": "Limpiador facial de uso diario formulado a base arcilla blanca. Este activo tiene la capacidad de ingresar en el poro y absorber el exceso de grasa previniendo la obstrucción, aliviando brotes y espinillas. También contiene ácido hialurónico, aceite de coco y hierbas cítricas. Termina de remover cualquier residuo de maquillaje o grasa que quede en la piel, aportando una limpieza profunda de poros. Es excelente para eliminar toxinas, es hipoalergénico y no contiene parabenos ni fragancias artificiales. Ideal para todo tipo de piel, inclusive las más sensibles, grasas o secas.",
+            "volume": "150 g",
+            "price": 159.00,
+            "discount": 49.00,
+            "stock": 150,
+            "cant_stars": 4,
+            "specifications": ["Ácido hialurónico", "Caolín", "Potassium Cocoate", "Lauric Acid", "Cocos Nucifera Oil"]
+        },
+        {
+            "id": 3,
+            "product_image": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/hei/hei76072/l/30.jpg",
+            "product_name": "All Clean Green Foam",
+            "description": "Limpiador facial de uso diario formulado con un pH de 5.5.Este gel limpiador además de mantener el pH equilibrado, elimina las impurezas del rostro. Este limpiador es libre de parabenos y fragancias artificiales. En sus ingredientes principales contiene centella asiática y el hamamelis, ambos productos son reconocidos por sus propiedades curativas y calmantes. También es un producto ideal para pieles grasas, inclusive pieles grasas. Es un jabón de uso diario, tanto en la limpieza de la mañana como en la noche.",
+            "volume": "150 ml",
+            "price": 159.00,
+            "discount": 29.00,
+            "stock": 100,
+            "cant_stars": 5,
+            "specifications": ["Centella Asiática", "Hamamelis", "Potassium Cocoyl Glutamate", "Quillaja Saponaria Bark Extract"]
+        },
+        {
+            "id": 4,
+            "product_image": "https://kalon.shop/wp-content/uploads/2023/04/p-web-2-35.png",
+            "product_name": "Axis-Y Dark Spot Correcting Glow Serum",
+            "description": "Suero que ayuda a disminuir y prevenir las manchas en la piel causadas por el sol y las marcas de acné. Ayuda a disminuir la producción de melanina, responsable de la hiper – pigmentación en la piel. Contiene Niacinamida al 5%, salvado de arroz, escualeno, papaya y caléndula.",
+            "volume": "30 ml",
+            "price": 269.00,
+            "discount": 0,
+            "stock": 50,
+            "cant_stars": 5,
+            "specifications": ["Niacinamida", "Salvado de arroz", "Escualeno", "Papaya", "Calendula"]
+        },
+        {
+            "id": 5,
+            "product_image": "https://m.media-amazon.com/images/I/71n49rwzEZL._SL1500_.jpg",
+            "product_name": "Ground Rice and Honey Glow Mask",
+            "description": "Esta mascarilla aprovecha el poder de las heces de makgeolli recicladas, un subproducto del vino de arroz tradicional coreano, para brindar potentes beneficios para la piel. Enriquecido con polvo de cáscara de arroz natural y un 5% de miel, proporciona una hidratación profunda, mejora la textura de la piel y ayuda a calmar las afecciones inflamatorias de la piel como el acné.",
+            "volume": "150 ml",
+            "price": 249.00,
+            "discount": 0,
+            "stock": 150,
+            "cant_stars": 3,
+            "specifications": ["Caolín", "Miel", "Dipropylene Glycol", "Oryza Sativa (Rice) Hull Powder", " Bentonite"]
+        },
+        {
+            "id": 6,
+            "product_image": "https://images.beautybay.com/eoaaqxyywn6o/5HZirztjylHcVSd6hoefwt/33285621dbfd7cdc06624664c8d832fd/JOSE0015F_1.jpg",
+            "product_name": "Matte Sun Stick: Mugwort + Camilia",
+            "description": "Protector solar en barra con nivel SPF50 PA++++ da un efecto hidratante que deja un acabado matte. No deja sensación pegajosa. Contiene polvo de sílice que brinda un acabado sedoso y de larga duración, disminuyendo la apariencia de aceite en la piel. Contiene artemisia, que es rico en vitamina A y C, minerales que ayudan a nutrir y calmar la piel con un efecto refrescante.",
+            "volume": "18 g",
+            "price": 215.00,
+            "discount": 0.00,
+            "stock": 100,
+            "cant_stars": 4,
+            "specifications": ["Mugwort", "Camilia", "Curcuma Longa Root Extract", "Melia Azadirachta Flower Extract"]
+        },
+        {
+            "id": 7,
+            "product_image": "https://www.sokobox.cl/cdn/shop/products/COSRX07_COSRX_BHA_Blackhead_Power_Liquid_1_efe523bd-1100-4907-81e1-6888df65cf54-692008.jpg?v=1693422083",
+            "product_name": "Cosrx Blackhead Power Liquid",
+            "description": "¡Tu mejor aleado para puntos negros! Exfoliante liquido, potente pero gentil con el rostro. Su principal ingrediente es BHA, el cual es súper efectivo para tratar los puntos negros y poros obstruídos. No irrita la piel, ayudará a eliminar los actuales y evitará la aparición de nuevos. Este exfoliante contiene extracto de corteza de sauce el cual nos ayudara con el acné y brotes, también contiene niacinamida la cual ayudará a la unificación del tono de  la piel. Ilumina, suaviza y deja un tono de piel más uniforme, dejando la piel con sensación más lisa.",
+            "volume": "100 ml",
+            "price": 245.00,
+            "discount": 35.00,
+            "stock": 150,
+            "cant_stars": 5,
+            "specifications": ["BHA", "Niacinamida", "Betaine Salicylate,", "Panthenol", "Xanthan Gum"]
+        },
+        {
+            "id": 8,
+            "product_image": "https://kalon.shop/wp-content/uploads/2023/11/Captura-de-Pantalla-2023-11-02-a-las-09.20.44.png",
+            "product_name": "Mizon Cica Aloe 96% Soothing Gel Cream",
+            "description": "Gel calmante con un 96 % de extracto de aloe que repone instantáneamente la humedad de la piel. Enriquecido aún más con extracto de centella asiática para un mejor efecto calmante. Se puede utilizar desde la cara hasta los dedos de los pies. Se puede aplicar para refrescar, hidratar y calmar la piel sin dejar residuos ni sensación pegajosa. Esta fórmula no grasa ofrece una sensación calmante para quemaduras solares menores, irritación de la piel, picaduras de insectos, abrasiones menores, escozor y piel seca.",
+            "volume": "300 g",
+            "price": 65.00,
+            "discount": 0,
+            "stock": 50,
+            "cant_stars": 5,
+            "specifications": ["Aloe vera", "Centella Asiática", "Carbomer", "Betaine"]
+        },
+        {
+            "id": 9,
+            "product_image": "https://kalon.shop/wp-content/uploads/2022/11/118.png",
+            "product_name": "Tocobo Cotton Soft Sun Stick",
+            "description": "Protector solar SPF50+ PA++++ con formato en barra mate azul claro. Deja un efecto suave y sedoso. Este contiene complejo AC de hierbas, extracto de algodón y complejo de anti-sebo; los cuales ayudarán a proteger de agresores ambientales, calmar rojeces e irritaciones y controlar exceso de producción de aceite. Siendo un protector super práctico para retocar.",
+            "volume": "19 g",
+            "price": 195.00,
+            "discount": 15.00,
+            "stock": 100,
+            "cant_stars": 4,
+            "specifications": ["Centella Asiática", "AHA", "BHA", "PHA"]
+        },
+        {
+            "id": 10,
+            "product_image": "https://static.beautytocare.com/media/catalog/product/a/n/anua-heartleaf-77-soothing-toner-250ml.jpg",
+            "product_name": "Anua Heartleaf 77% Soothing Toner",
+            "description": "ANUA Heartleaf 77% es un tónico calmante y regenerativo diseñado para aportar hidratación y alivio a la piel. Su fórmula es rica en extracto de Houttuynia Cordata, que representa el 77% de la composición, proporciona una rica hidratación, ayudando a mantener un equilibrio óptimo de humedad en la piel. Además, está increíble planta tiene propiedades calmantes y ayuda a reducir la irritación y el enrojecimiento de la piel. Los extractos naturales, como la manzanilla, la centella asiática y la fallopia japonica, ayudan a acelerar el proceso de cicatrización de las inflamaciones en la superficie de la piel, incluido el acné.",
+            "volume": "250 ml",
+            "price": 275.00,
+            "discount": 0,
+            "stock": 50,
+            "cant_stars": 5,
+            "specifications": ["Extracto de Houttuynia Cordata ", "Extracto de manzanilla", "Pantenol", "Centella Asiática"]
+        }
+    ]
+
+}
+
